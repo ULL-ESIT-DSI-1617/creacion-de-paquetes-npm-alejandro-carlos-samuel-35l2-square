@@ -1,0 +1,22 @@
+{
+  "name": "@alejandro-carlos-samuel/ull-square",
+  "version": "0.0.1",
+  "description": "",
+  "main": "/lib/square.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-square.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-square/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-square#readme",
+  "dependencies": {
+    "@alejandro-carlos-samuel/ull-shape": "0.0.1"
+  }
+}
