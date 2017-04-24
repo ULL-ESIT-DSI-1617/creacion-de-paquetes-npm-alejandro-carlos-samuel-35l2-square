@@ -1,6 +1,6 @@
 {
   "name": "@alejandro-carlos-samuel/ull-square",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Figura cuadrado",
   "main": "/lib/square.js",
   "scripts": {
