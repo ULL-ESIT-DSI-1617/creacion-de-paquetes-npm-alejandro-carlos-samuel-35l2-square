@@ -20,7 +20,6 @@ describe("Square", function() {
         });
         assert.typeOf(figura, 'Object');
         expect(figura).to.not.be.undefined;
-
     })
 });
 
