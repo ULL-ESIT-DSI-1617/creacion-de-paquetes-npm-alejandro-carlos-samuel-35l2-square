@@ -1,4 +1,5 @@
 # Práctica: Creación de Paquetes NPM y Strategy Pattern
+[![Build Status](https://travis-ci.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-square.svg?token=PDMoqywayE5S4e1qBg5g&branch=master)](https://travis-ci.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-square)
 
 ## Autor
 
